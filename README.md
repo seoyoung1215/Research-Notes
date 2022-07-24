@@ -1,3 +1,5 @@
 # Research-Notes
 
-1. 논문 스터디
+1. Literature Review (publications)
+
+2. Research 
